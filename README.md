@@ -1,6 +1,6 @@
 This is a basic calculator that performs simple arithmetic operations such as addition, subtraction, multiplication, and division. It is built using HTML for the structure and CSS for styling.
 
-Features:
+Features: <br>
 Addition, subtraction, multiplication, and division. <br>
 Clear button, and delete button. <br>
 Simple and clean user interface.<br>
