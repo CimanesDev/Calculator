@@ -1,6 +1,6 @@
 This is a basic calculator that performs simple arithmetic operations such as addition, subtraction, multiplication, and division. It is built using HTML for the structure and CSS for styling.
 
-Features: <br>
+**Features:** <br>
 Addition, subtraction, multiplication, and division. <br>
 Clear button, and delete button. <br>
 Simple and clean user interface.<br>
@@ -16,3 +16,5 @@ For any questions or feedback, feel free to contact me at: <br>
 Email: jmcimanes@up.edu.ph | cimanesdev@gmail.com <br>
 GitHub: https://github.com/cimanesdev <br>
 LinkedIn: https://www.linkedin.com/in/josh-bradley-cimanes-1027091b8/
+
+_This project is licensed under the MIT License_
